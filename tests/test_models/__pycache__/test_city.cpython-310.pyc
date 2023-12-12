@@ -1,0 +1,80 @@
+t_id_is_public_str   ó   z,TestCity_instantiation.test_id_is_public_strc                 C   r   r   )r    r      r   Ú
+created_atr	   r
+   r
+r   Ú"test_created_at_is_public_datetime   r   z9TestCity_instantiation.test_created_at_is_public_datetimec                 C   r   r   )r    r      r   Ú
+updated_atr	   r
+   r
+      r   Ú"test_updated_at_is_pubCissertNotIn__dict__©r
+         Úcyr
+	    r
+	r   Ú'test_state_id_is_public_class_attribute#      t_id_is_public_str   ó   z,TestCity_instantiation.test_id_is_public_strc                 C   r   r   )r    r      r   Ú
+	created_atr	   r
+	   r
+	r   Ú"test_created_at_is_public_datetime   r   z9TestCity_instantiation.test_created_at_is_public_datetimec                 C   r   r   )r    r      r   Ú
+	updated_atr	   r
+	   r
+	r   Ú"test_updated_at_is_pubCissertNotIn__dict__t_id_is_public_str   ó   z,TestCity_instantiation.test_id_is_public_strc                 C   r   r   )r    r      r   Ú
+	created_atr	   r
+	   r
+	r   Ú"test_created_at_is_public_datetime   r   z9TestCity_instantiation.test_created_at_is_public_datetimec                 C   r   r   )r    r      r   Ú
+	updated_atr	   r
+	   r
+	r   Ú"test_updated_at_is_pubz>TestCity_instantiation.test_state_id_is_public_class_attributect_id_is_public_str   ó   z,TestCity_instantiation.test_id_is_public_strc                 C   r   r   )r    r      r   Ú
+	created_atr	   r
+	   r
+	r   Ú"test_created_at_is_public_datetime   r   z9TestCity_instantiation.test_created_at_is_public_datetimec           t_instantiation_with_None_kwargsX   s   t_instantiation_with_None_kwargsX"ÿz:TestCity_instantiation.test_instantiation_with_None_kwargsN__name__Ú
+	__module__Ú__qualname__Ú __doc__r
+	   r      r   r   r$   r'   r*   r.   r0   r7   r8   r=   r@   r
+	      r
+	         r
+	   r
+	  )
+	  TestCity_savez4Unittests for testing save method of the City class.c )            )     C   s(  
+	 y
+	etUp`   s
+	in
+
+ta5iation
+Cist_one_saveq   s
+   tCity_save.test_one_savect_one_saveq   s
+z                 C   sP   t ƒ }t_one_saveq   s
+   ztt_one_saveq   s
+      zdt_one_saveq   s
+         zƒt_one_saveq   s
+	    zt_one_saveq   s
+	       z |t_one_saveq   s
+	          zer#EqdÚ#fr
+		     r
+		        r   Útest_save_updates_fileˆ   s   #
+			##"ÿz$TestCity_save.test_save_updates_fileN)
+			rA   rB   rC   rD   Ú
+			classmethodrL   rN   rR   rT   rV   r\   r
+			   r
+			      r
+				r   rE   ]   s  #
+				
+			
+        Tes
+	Ci
+	y_o_dict_to_dict_contains_correct_keys–   s
+		o_dict_to_dict_contains_correct_keyso_dict_to_dict_contains_correct_keyso_dict_to_dict_contains_correct_keysz3TestCity_to_dict.test_to_dict_contains_correct_keysc                 C   s4   
+Ús
+lf©r
+tt_to_dict_contains_added_attributes   s
+_
+so##   r
+   r
+  
+  avt_to_dict_datetime_attributes_are_strs¤   s
+t_contrast_to_dict_dunder_dict¸   s   t_to_dict_datetime_attributes_are_strs¤   s
+z2TestCity_to_dict.test_contrast_to_dict_dunder_dictct_to_dict_datetime_attributes_are_strs¤   s
+     C   rU   r   )r   r>   r?   ra   r"   r
+   r
+      test_to_dict_with_arg¼   rW   z&TestCity_to_dict.test_to_dict_with_argN)
+      rA   rB   rC   rD   rb   rd   ri   rj   rm   rn   ro   r
+         r
+	    r
+.cityr   TestCaser   rE   r^   rA   Úmainr
+   r
+      r
+

@@ -1,0 +1,90 @@
+t_id_is_public_str   ó    unittests for models/amenity.py.
+
+Unittest classes:
+    TestAmenity_instantiation
+        TestAmenity_save
+	    TestAmenity_to_dict
+	    z/TestAmenity_instantiation.test_id_is_public_strc unittests for models/amenity.py.
+
+	    Unittest classes:
+	        TestAmenity_instantiation
+		    TestAmenity_save
+		        t_to_dict_with_arg·   rO   z)TestAmenity_to_dict.test_to_dict_with_argN)
+			r:   r;   r<   r=   rZ   r\   r_   r`   rb   rc   rd   r
+			   r
+			      r
+			      es
+			      Am
+			      nity_to_dict
+			            unittests for models/amenity.py.
+
+				    Unittest classes:
+				        TestAmenity_instantiation
+					    TestAmenity_save
+					        TestAmenity_to_dict
+						C   r   r   )r    r      r   Ú
+						created_atr	   r
+						   r
+						      r   Ú"test_created_at_is_public_datetime   r   z<TestAmenity_instantiation.test_created_at_is_public_datetimec unittests for models/amenity.py.
+
+						      Unittest classes:
+						          TestAmenity_instantiation
+							      TestAmenity_save
+							          TestAmenity_to_dict
+								              unittests for models/amenity.py.
+									lbertonéb   Ú	my_number)r   Z
+									middle_namer^   r    r2   rY   r!   r
+									   r
+
+
+	"			m_dictr
+	   r
+	      r   Ú)test_to_dict_datetime_attributes_are_strsŸ   s
+			""""z=TestAmenity_to_dict.test_to_dict_datetime_attributes_are_strsc"                 C   sJ   t  "¡ }"tƒ }d"|_Un
+			ttst cl
+			sss:
+									          TestAmenity_instantiation
+										      TestAmenity_save
+										          TestAmenity_to_dict
+												C   r   r   )r    r      r   Ú
+												updated_atr	   r
+												   r
+
+  
+  ssertLessr   r%   r
+     r
+     unittests for models/amenity.py.
+ted_at': z'updated_at': )	r   ÚtodayÚreprr   r   r   r
+     tr__r   )mr
+        ÚdtZ dt_reprr"   Ziamstrr
+	   r
+	    ni tet !la
+	    se
+	    :
+       
+  TetAt_instantiation_with_None_kwargsS   s   tAt_instantiation_with_None_kwargsS"ÿz=TestAmenity_instantiation.test_instantiation_with_None_kwargsN)__name__Ú
+  __module__Ú__qualname__Ú __doc__r
+     r      r   r   r#   r&   r*   r,   r2   r3   r6   r9   r
+        r
+	   r
+	         Test
+		 me"ity_t"_dJct
+econd_updated_atr
+midÚecond_updated_atr
+fr
+   r
+      r   Útest_save_updates_fileƒ   s   econd_updated_atr
+     econd_updated_atr
+
+     econd_updated_atr
+     econd_updated_atr
+     "ÿz'TestAmenity_save.test_save_updates_fileN)
+     r:   r;   r<   r=   Ú
+     classmethodrE   rG   rK   rL   rN   rT   r
+        r
+	   r
+	r   r>   X   s  econd_updated_atr
+	
+	econd_updated_atr
+
+

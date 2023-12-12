@@ -1,0 +1,69 @@
+ttest classes:
+    TestFileStorage_instantiation
+        TestFileStorage_methods
+	é    N)datetime)Ú	BaseModel)Ú
+ 
+	Ú storager   r  r   r   r  Útest_storage_initializes'   r   z6TestFileStorage_instantiation.test_storage_initializesN)	__name__Ú
+	__module__Ú__qualname__Ú __doc__r     8   
+	
+	
+	
+	
+	
+	
+	
+	
+	
+aveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r  r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r          t_reload‰   s0     r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+	   r   r   r    rN   r           
+r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+	   r   r   r    rN   r           
+r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r             r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r           z#TestFileStorage_methods.test_reloadc  r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+r   r   r    rN   r                        r   r   r  Úest_save_with_arg…   r4   z*TestFileStorage_methods.test_save_with_argcaveÚopenÚreadr>   r?   )
+r   rB   rC   rD   rE   rF   rG   rH   Z	save_textÚ=fr   r   r  Ú	test_savej   s4   ==============
+		r   r   r    rT   r  r   r   r  Útest_reload_with_arg£   r4   z,TestFileStorage_methods.test_reload_with_argN"   r#   r$   r%   Ú
+	classmethodr-   r/   r1   r3   rI   rK   rR   rS   rU   rV   r   r   r   r  r&   +   s   "
+	"
+	
+.userr   Úmodels.stater   Úmodels.placer    Ú
+models.city   Úmodels.amenityr	   Ú
+models.reviewr
+   TestCaser
+

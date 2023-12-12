@@ -1,0 +1,250 @@
+st_id_is_public_str   ó   ssertEqualr   Útype©tBaseModel_to_dict
+Úself© r
+z1TestBaseModel_instantiation.test_id_is_public_strcssertEqualr   Útype©tBaseModel_to_dict
+Úself© r
+ssertEqualr   Útype©tBaseModel_to_dict
+Úself© r
+l   C   r   r   )r    r      r   Ú
+created_atr	   r
+   r
+r   Ú"test_created_at_is_public_datetime   r   z>TestBaseModel_instantiation.test_created_at_is_public_datetimecssertEqualr   Útype©tBaseModel_to_dict
+Úself© r
+ssertEqualr   Útype©tBaseModel_to_dict
+Úself© r
+l   C   r   r   )r    r      r   Ú
+updated_atr	   r
+   r
+   er
+   Eq
+   alr   Útype©tBaseModel_to_dict
+tr__r   )r
+   ÚdtÚ dt_reprÚbmZbmstrr
+      r
+      ssertNotIn__dict__r  ©r
+         r,   r
+	    r
+r!   rK   )r
+   r,   rM   Úsecond_updated_atr
+      r
+
+sseModel.rC   Ú r!   rK   )r
+   r,   rM   Úsecond_updated_atr
+      r
+r)r   rL   r   Úopenr   Úread)r
+r,   ZbmidÚ r!   rK   )r
+   r,   rM   Úsecond_updated_atr
+      r
+      fr
+         r
+	r   Útest_save_updates_file…   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	 r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      "ÿz)TestBaseModel_save.test_save_updates_fileN)
+	      r=   r>   r?   r@   Ú
+	      classmethodrH   rJ   rN   rP   rR   rX   r
+	         r
+		    r
+	r   rA   Y   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	TestBaseModel_to_dictz<Unittests for testing to_dict method of the BaseModel class.cseModel.rC   Ú r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+r)r   rL   r   Úopenr   Úread)r
+r,   ZbmidÚ r!   rK   )r
+   r,   rM   Úsecond_updated_atr
+      r
+      fr
+         r
+	r   Útest_save_updates_file…   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	 r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      "ÿz)TestBaseModel_save.test_save_updates_fileN)
+	      r=   r>   r?   r@   Ú
+	      classmethodrH   rJ   rN   rP   rR   rX   r
+	         r
+		    r
+	r   rA   Y   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+
+	      r      r   r   r   r#   r%   r-   r1   r8   r;   r<   r
+	         r
+		    r
+etUp\   s
+w rB   )rE   ÚremoverG   rF   r	   r
+   r
+tr
+   r
+      r   Ú
+ssertTrueÚdict   Ú to_dictr0   r
+   r
+TestBaseModel_to_dictz<Unittests for testing to_dict method of the BaseModel class.cseModel.rC   Ú r!   rK   )r
+   r,   rM   Úsecond_updated_atr
+      r
+r)r   rL   r   Úopenr   Úread)r
+r,   ZbmidÚ r!   rK   )r
+   r,   rM   Úsecond_updated_atr
+      r
+      fr
+         r
+r   )r   r   r]   r/   r0   r
+   r
+r   Ú!test_contrast_to_dict_dunder_dictµ   s   z7TestBaseModel_to_dict.test_contrast_to_dict_dunder_dictc                C   rQ   r   )r   r9   r:   r]   r0   r
+   r
+      test_to_dict_with_arg¹   rS   z+TestBaseModel_to_dict.test_to_dict_with_argN)
+      r=   r>   r?   r@   r^   r`   re   rf   ri   rj   rk   r
+         r
+	    r
+	       r   rZ      s
+	   r,   rM   Úsecond_updated_atr
+	      r
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	 r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      "ÿz)TestBaseModel_save.test_save_updates_fileN)
+	      r=   r>   r?   r@   Ú
+	      classmethodrH   rJ   rN   rP   rR   rX   r
+	         r
+		    r
+	r   rA   Y   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+	TestBaseModel_to_dictz<Unittests for testing to_dict method of the BaseModel class.cseModel.rC   Ú r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+r)r   rL   r   Úopenr   Úread)r
+r,   ZbmidÚ r!   rK   )r
+   r,   rM   Úsecond_updated_atr
+      r
+      fr
+         r
+	r   Útest_save_updates_file…   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+	r!   rK   )r
+	   r, 
+	   rM  Úsecond_updated_att_to_dict_contains_correct_keys”   s
+)rNÚ	Holbertonéb   ÚnameÚ	my_number)r   rc   rd   rK   r]   r0   r
+   r
+      r   Ú&test_to_dict_contains_added_attributes›   s
+
+	
+	r!  
+	rK  )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      "ÿz)TestBaseModel_save.test_save_updates_fileN)
+	      r=   r>   r?   r@   Ú
+	      classmethodrH   rJ   rN   rP   rR   rX   r
+	         r
+		    r
+	r   rA   Y   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+	TestBaseModel_to_dictz<Unittests for testing to_dict method of the BaseModel class.cseModel.rC   Ú r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+r)r   rL   r   Úopenr   Úread)r
+r,   ZbmidÚ r!   rK   )r
+   r,   rM   Úsecond_updated_atr
+      r
+      fr
+         r
+	r   Útest_save_updates_file…   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	 r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      "ÿz)TestBaseModel_save.test_save_updates_fileN)
+	      r=   r>   r?   r@   Ú
+	      classmethodrH   rJ   rN   rP   rR   rX   r
+	         r
+		    r
+	r   rA   Y   s    r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+	      
+	r!   rK   )r
+	   r,   rM   Úsecond_updated_atr
+	      r
+
+

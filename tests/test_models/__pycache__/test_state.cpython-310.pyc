@@ -1,0 +1,57 @@
+t_id_is_public_str   ó   z-TestState_instantiation.test_id_is_public_strc                 C   r   r   )r    r      r   Ú
+created_atr	   r
+   r
+r   Ú"test_created_at_is_public_datetime   r   z:TestState_instantiation.test_created_at_is_public_datetimec                 C   r   r   )r    r      r   Ú
+updated_atr	   r
+   r
+lbertonéb   Ú	my_number)r   Ú
+middle_namerc   r    r3   r]   r!   r
+   r
+      r   Ú&test_to_dict_contains_added_attributes—   s
+
+
+ 
+ tr
+    r
+  t_contrast_to_dict_dunder_dict²   s   z3TestState_to_dict.test_contrast_to_dict_dunder_dictc                C   rQ   r   )r   r:   r;   r]   r!   r
+   r
+      test_to_dict_with_arg¶   rS   z'TestState_to_dict.test_to_dict_with_argN)
+      r=   r>   r?   r@   r^   r`   re   rf   ri   rj   rk   r
+         r
+	    r
+	    >t
+
+est
+classes:
+        TestState_instantiation
+	    TestState_save
+	        TestState_to_dict
+		]êb©
+		tr__r   )r
+		   ÚdtÚ dt_reprr"   Zststrr
+		      r
+					r   test_str_representation:   s  test_str_representationz/TestState_instantiation.test_str_representationc                 C   s   t d ƒ}|  d |r    !  
+					 
+					@   s
+					d  t_instantiation_with_None_kwargsR   s   t_instantiation_with_None_kwargsR"ÿz;TestState_instantiation.test_instantiation_with_None_kwargsN)__name__Ú
+					__module__Ú__qualname__Ú __doc__r
+					   r      r   r   r#   r&   r*   r,   r3   r4   r9   r<   r
+					      r
+					      tr
+					         r
+						    r   Ú
+						    test_one_savek   s
+					sszTestState_save.test_one_savecs                 C   sP   t ƒ }stsdsƒss |sj}|d"tidÚ"fr
+					   r
+					      r   Útest_save_updates_file‚   s   "
+					      """ÿz%TestState_save.test_save_updates_fileN)
+					      r=   r>   r?   r@   Ú
+					      classmethodrH   rJ   rN   rP   rR   rX   r
+					         r
+						    r
+						r   rA   W   s  "
+						
+					
+ssertTrueÚdict   r   Ú to_dictr	   r
+   r
+
